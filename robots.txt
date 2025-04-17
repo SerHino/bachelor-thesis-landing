@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Sitemap: https://SerHino.github.io/bachelor-thesis-landing/sitemap.xml
